@@ -1,0 +1,41 @@
+html, body {
+    margin:0;
+    padding:0;
+    background-color:white;
+    font-size: 20px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.wrapper {
+    max-width: 1400px;
+    padding: 5vw;
+}
+
+.header {
+  overflow: hidden;
+  background-color: white;
+  padding: 20px 10px;
+}
+
+/* Style the header links */
+.header a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 12px;
+  text-decoration: underline;
+  font-size: 18px; 
+  line-height: 25px;
+  border-radius: 4px;
+}
+
+.header-right {
+    float:right;
+}
+
+#input {
+    margin: 0 auto;
+    width: 100%;
+    font-size: 34px;
+    font-family: 'Montserrat', sans-serif;
+}
